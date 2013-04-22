@@ -1341,3 +1341,9 @@ $_LANG['upgradedowngradechooseproduct'] = "Choose Product";
 $_LANG['jobtitlereqforcompany'] = "(Required if Organization Name is set)";
 
 $_LANG['downloadproductrequired'] = "Downloading this item requires you to have an active instance of the following product/service:";
+
+
+# Version 5.1
+$_LANG['cpanellogin'] = "Login to cPanel";
+$_LANG['cpanelwhmlogin'] = "Login to WHM";
+$_LANG['cpanelwebmaillogin'] = "Login to Webmail";
